@@ -1,5 +1,5 @@
 # Robot-lower-part-stick-model
-Simple stick model design
+
 
 1- The simple stick model was designed by using cinema 4D.
 
