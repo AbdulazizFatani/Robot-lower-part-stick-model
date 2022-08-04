@@ -6,6 +6,7 @@ Simple stick model design
 the design consist of: 
 
 6 links
+
 4 joints
 
 2- The leg angle:
